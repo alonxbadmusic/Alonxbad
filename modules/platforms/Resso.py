@@ -1,4 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @VENDETTAAI
 
 import re
 from typing import Union
