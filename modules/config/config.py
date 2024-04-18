@@ -25,11 +25,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", " Alonxbad")
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1439222689").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/TEJXOS/ADITYAPLAYER",)
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "bikash")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/alonxbadmusic/Alonxbad.git",)
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Alonxbad")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BikashGadgetsTech")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/bgt_chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alonxbad")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alonxbad")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "On")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
 AUTO_SUGGESTION_TIME = int(getenv("AUTO_SUGGESTION_TIME", "5400"))
@@ -58,13 +58,6 @@ STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
 
-# ──────╔╗───╔╗─╔╗─╔╗────╔══╗╔╗─────╔╗─╔╗───────
-# ──────║║──╔╝╚╗║║─║║────║╔╗║║║─────║║─║║───────
-# ╔══╗╔═╝║╔╗╚╗╔╝║╚═╝║╔══╗║╚╝║║║─╔══╗║╚═╝║╔══╗╔═╗
-# ║╔╗║║╔╗║─╣─║║─╚═╗╔╝║╔╗║║╔═╝║║─║╔╗║╚═╗╔╝║║═╣║╔╝
-# ║╔╗║║╚╝║║║─║╚╗╔═╝║─║╔╗║║║──║╚╗║╔╗║╔═╝║─║║═╣║║─
-# ╚╝╚╝╚══╝╚╝─╚═╝╚══╝─╚╝╚╝╚╝──╚═╝╚╝╚╝╚══╝─╚══╝╚╝─
-
 
 ### Do Not Touch Or Edit Codes After This Line
 ############################
@@ -85,8 +78,8 @@ LOG_FILE_NAME = "adityalogs.txt"
 ############################
 
 
-# All Images Of Bikash Aditya Player // @BIKASHHALDER @AdityaHalder
-START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg")
+# All Images Of Alonxbad // @Alonxbad_bot
+START_IMG_URL = getenv("START_IMG_URL", f"https://telegra.ph/file/2ec1a02c2351dc2d135e1.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "resource/ping.jpeg")
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "resource/playlist.jpeg")
 GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "resource/global.jpeg")
