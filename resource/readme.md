@@ -1,4 +1,4 @@
-## Bikash Aditya Assets Folder
+## Alonxbad Assets Folder
 
 # Contains all the fonts and thumb related files.
 
