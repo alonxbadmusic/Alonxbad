@@ -1,8 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
-
+# Power By @VENDETTAAI
 from modules import app
 from modules.utils.database import get_cmode
 
@@ -35,7 +31,4 @@ async def get_channeplayCB(_, command, CallbackQuery):
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
