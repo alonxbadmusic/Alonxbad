@@ -1,7 +1,4 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI 
 
 HELP_1 = """✅**<u>Admin Commands:</u>**
 
@@ -171,7 +168,4 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 """
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI
