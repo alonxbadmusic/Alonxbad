@@ -1,4 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @VENDETTAAI
 
 import sys
 from modules import config
