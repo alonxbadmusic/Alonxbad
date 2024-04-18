@@ -1,6 +1,6 @@
 # powered By VENDETTAAI
-# Hindi Language Add By Alonxbad
-# telegram Unique Hindi Support Music Bot
+# Bangoli Language Add By aditya
+# telegram Unique Bengoli Support Music Bot
 [Alonxbad](t.me/Alonxbad)
 
-# **Don't Use Hindi Language Without Credit** 😎😎
+# **Don't Use bengoli Language Without Credit** 😎😎
