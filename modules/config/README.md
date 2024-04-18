@@ -87,7 +87,7 @@
 ## Images/Thumbnail Vars
 
 - You can change images which are used in Alonxbad_bot.
-- You can generate telegaph links from [@Alonxbad](http://t.me/Alonxbad) and use it here.
+- You can generate telegaph links from [@Alonxbad_bot](http://t.me/Alonxbad_bot) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
