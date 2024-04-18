@@ -1,4 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @VENDETTAAI
 
 import sys
 from pyrogram import Client
@@ -48,9 +48,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("BikashGedgetsTech")
-                await self.one.join_chat("Bgt_chat")
-                await self.one.join_chat("kaalware")
+                await self.one.join_chat("Alonxbad")
+                await self.one.join_chat("Alonxbad")
+                await self.one.join_chat("hackersBDD")
             except:
                 pass
             assistants.append(1)
@@ -79,9 +79,9 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("BikashGedgetsTech")
-                await self.two.join_chat("bgt_chat")
-                await self.two.join_chat("kaalware")
+                await self.two.join_chat("Alonxbad")
+                await self.two.join_chat("Alonxbad")
+                await self.two.join_chat("hackersBDD")
             except:
                 pass
             assistants.append(2)
@@ -110,9 +110,9 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("BikashGedgetsTech")
-                await self.three.join_chat("bgt_chat")
-                await self.three.join_chat("kaalware")
+                await self.three.join_chat("Alonxbad")
+                await self.three.join_chat("Alonxbad")
+                await self.three.join_chat("hackersBDD")
             except:
                 pass
             assistants.append(3)
@@ -141,9 +141,9 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("BikashGedgetsTech")
-                await self.four.join_chat("bgt_chat")
-                await self.four.join_chat("kaalware")
+                await self.four.join_chat("Alonxbad")
+                await self.four.join_chat("Alonxbad")
+                await self.four.join_chat("hackersBDD")
             except:
                 pass
             assistants.append(4)
@@ -172,9 +172,9 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("BikashGedgetsTech")
-                await self.five.join_chat("bgt_chat")
-                await self.five.join_chat("kaalware")
+                await self.five.join_chat("Alonxbad")
+                await self.five.join_chat("Alonxbad")
+                await self.five.join_chat("hackersBDD")
             except:
                 pass
             assistants.append(5)
