@@ -1,5 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
-
+# Powered By @VENDETTAAI
 import os
 from random import randint
 from typing import Union
