@@ -1,13 +1,8 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @VENDETTAAI
 
-### Join @BikashGadgetsTech For More Update
+### Join @Alonxbad For More Update
 
-### Join @AdityaCheats For Hack
-
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
-
-
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@VENDETTAAI](https://t.me/VENDETTAAI)
 
 
 ### ABOUT THIS BOT
@@ -24,17 +19,17 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[VENDETTAAI](https://t.me/Alonxbad)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Alonxbad)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Alonxbad)
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://youtube.com/@badliar3484?si=c4czhpvVEcTEUCDR)
 
 ### Deploy To Heroku
 
@@ -70,10 +65,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Bikash Halder](https://telegra.ph/file/0ad317609de900d80fa45.jpg)](https://t.me/Alonxbad)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [VENDETTAAI](https://t.me/Alonxbad)
 
 ## 💕 Special Thanks
 
