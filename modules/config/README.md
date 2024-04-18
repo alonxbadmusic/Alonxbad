@@ -1,4 +1,4 @@
-# Bikash Aditya Player Bot Variables
+# Alonxbad_bot Variables
 
 
 ## Mandatory Vars
@@ -12,7 +12,7 @@
 5. `LOG_GROUP_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
 6. `MUSIC_BOT_NAME` : A name for your Music bot.
 7. `OWNER_ID` : Your Owner ID for managing your bot.
-8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [BgtStringBot](http://t.me/Bgtstringbot) in Telegram.
+8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [Alonxbad_bot](http://t.me/Alonxbad_bot) in Telegram.
 
 
 ## Non-Mandatory Vars
@@ -55,7 +55,7 @@
 - You can play tracks or playlists from spotify from Aditya Player bot
 - You'll need these two vars to make spotify play working. This is not essential , you can leave them blank if you want.
 
-### How to get these? [Read from here](https://t.me/BikashGadgetsTech)
+### How to get these? [Read from here](https://t.me/Alonxbad)
 
 
 1. `SPOTIFY_CLIENT_ID` : Get it from https://developer.spotify.com/dashboard 
@@ -67,7 +67,7 @@
 - To work some Heroku compatible modules, this var value required to Access your account to use `get_log`, `usage`, `update` etc etc commands.
 - You can fill this var using your API key or Authorization token.
 
-### How to get these? [Read from here](https://t.me/adityaserver)
+### How to get these? [Read from here](https://t.me/Alonxbad)
 
 1. `HEROKU_API_KEY` : Get it from http://dashboard.heroku.com/account 
 2. `HEROKU_APP_NAME` : You have to Enter the app name which you gave to identify your Music Bot in Heroku. 
@@ -87,7 +87,7 @@
 ## Images/Thumbnail Vars
 
 - You can change images which are used in Aditya Player Bot.
-- You can generate telegaph links from [@adityaserver](http://t.me/adityaserver) and use it here.
+- You can generate telegaph links from [@Alonxbad](http://t.me/Alonxbad) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
@@ -109,4 +109,4 @@
 
 1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from 
 
-replit : AdityaHalder
+replit : lilbad188
