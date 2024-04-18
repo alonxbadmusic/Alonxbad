@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 from typing import Union
 
@@ -23,7 +20,7 @@ def setting_markup(_):
                 text="🎩 𝐀𝐮𝐭𝐡 𝐔𝐬𝐞𝐫𝐬", callback_data="AU"
             ),
             InlineKeyboardButton(
-                text="🤖 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫", url=f"https://t.me/Bikashhalder"
+                text="🤖 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫", url=f"https://t.me/Alonxbad"
             ),
         ],
         [
@@ -258,7 +255,4 @@ def playmode_users_markup(
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI 
