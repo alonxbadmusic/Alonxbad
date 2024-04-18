@@ -1,5 +1,5 @@
 # powered By VENDETTAAI
-# Bangali Language Add By Bikash Halder
+# Bangali Language Add By Alonxbad
 # telegram first BENGALI Support Music Bot
 [Alonxbad](t.me/Alonxbad)
 
