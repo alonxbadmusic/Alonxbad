@@ -1,5 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
-
+# Powered By @VENDETTAAI
 import re
 
 import spotipy
