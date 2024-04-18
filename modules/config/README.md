@@ -3,7 +3,7 @@
 
 ## Mandatory Vars
 
-- These are the minimum required vars need to setup to make Aditya Player Bot functional.
+- These are the minimum required vars need to setup to make Alonxbad_bot functional.
 
 1. `API_ID` : Get it from my.telegram.org 
 2. `API_HASH`  : Get it from my.telegram.org 
@@ -52,10 +52,10 @@
 
 ## Spotify Vars
 
-- You can play tracks or playlists from spotify from Aditya Player bot
+- You can play tracks or playlists from spotify from Alonxbad_bot
 - You'll need these two vars to make spotify play working. This is not essential , you can leave them blank if you want.
 
-### How to get these? [Read from here](https://t.me/Alonxbad)
+### How to get these? [Read from here](https://t.me/hackersBDD)
 
 
 1. `SPOTIFY_CLIENT_ID` : Get it from https://developer.spotify.com/dashboard 
@@ -75,7 +75,7 @@
 
 ## Custom Repo Vars
 
-- If you plan to use Aditya Player Bot with your own customized or modified code.
+- If you plan to use Alonxbad_bot with your own customized or modified code.
 
 1. `UPSTREAM_REPO` : Your Upstream Repo URL or Forked Repo.
 2. `UPSTREAM_BRANCH` : Default Branch of your Upstream Repo URL or Forked Repo. 
@@ -86,7 +86,7 @@
 
 ## Images/Thumbnail Vars
 
-- You can change images which are used in Aditya Player Bot.
+- You can change images which are used in Alonxbad_bot.
 - You can generate telegaph links from [@Alonxbad](http://t.me/Alonxbad) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
