@@ -33,7 +33,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/BgtMusic)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/alonxbadmusic/Alonxbad.git)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -47,7 +47,7 @@
 4) nvm install node
 
 5. Clone the Repository :
-git clone https://github.com/BikashhalderNew/BgtMusic &&  cd BgtMusic
+git clone https://github.com/alonxbadmusic/Alonxbad.git &&  cd Alonxbad
 
 6. Install Installer : 
 pip3 install -r Installer
@@ -58,14 +58,14 @@ Edit Internal with your values or you can simple copy a config from here and pas
 Press I button on keyboard to start editing.
 Press Ctrl + C  once you are done with editing vars and type :wq to save Internal or :qa to exit editing.
 
-9. Finally Run BGT Music Bot :
+9. Finally Run Alonxbad Music Bot :
 python3 -m modules 
 
 
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://telegra.ph/file/0ad317609de900d80fa45.jpg)](https://t.me/Alonxbad)
+[![VENDETTAAI](https://telegra.ph/file/0ad317609de900d80fa45.jpg)](https://t.me/Alonxbad)
 
 
 #### Main Developer = [VENDETTAAI](https://t.me/Alonxbad)
