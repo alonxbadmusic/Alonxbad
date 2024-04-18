@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 import asyncio
 import importlib
@@ -68,16 +65,13 @@ async def init():
     except:
         pass
     await Aditya.decorators()
-    LOGGER("BIKASH_PLAYER").info("Bikash Player Bot Started Successfully")
+    LOGGER("BIKASH_PLAYER").info("Alonxbad Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("BIKASH_PLAYER").info("Stopping Bikash Player Bot! GoodBye")
+    LOGGER("BIKASH_PLAYER").info("Stopping Alonxbad ! GoodBye")
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI 
