@@ -1,8 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
-
+# Power By @VENDETTAAI
 from typing import Union
 from pyrogram.types import InlineKeyboardButton
 
@@ -21,7 +17,7 @@ def start_pannel(_):
         [
             InlineKeyboardButton(
                 text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                url=f"https://t.me/BikashGedgetsTech",
+                url=f"https://t.me/Alonxbad",
             ),
             InlineKeyboardButton(
                 text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
@@ -65,7 +61,4 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI 
