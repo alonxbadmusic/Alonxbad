@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 import socket
 import time
@@ -86,7 +83,4 @@ def heroku():
                 )
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
