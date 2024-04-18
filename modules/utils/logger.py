@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 from modules.config import LOG, LOG_GROUP_ID
 from modules import app
