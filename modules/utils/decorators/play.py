@@ -1,8 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
-
+# Power By @VENDETTAAI
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from modules.config import PLAYLIST_IMG_URL, PRIVATE_BOT_MODE, adminlist
@@ -130,7 +126,4 @@ def PlayWrapper(command):
     return wrapper
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI 
