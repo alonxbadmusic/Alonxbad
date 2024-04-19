@@ -1,7 +1,4 @@
-# Power𝐞𝐝 By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power𝐞𝐝 By @VENDETTAAI 
 
 from pyrogram import filters
 from pyrogram.types import Message
@@ -34,7 +31,4 @@ async def resume_com(cli, message: Message, _, chat_id):
 
 
 
-# Power𝐞𝐝 By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power𝐞𝐝 By @VENDETTAAI
