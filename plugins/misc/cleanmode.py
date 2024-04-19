@@ -1,7 +1,4 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI
 
 
 
@@ -274,8 +271,5 @@ async def auto_clean():
 asyncio.create_task(auto_clean())
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI
 
