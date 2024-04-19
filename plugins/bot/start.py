@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 import asyncio
 
@@ -198,12 +195,9 @@ async def start_comm(client, message: Message, _):
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
-┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┏━━━━━━━━━━━━━━━━━
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝗩𝗘𝗡𝗗𝗘𝗧𝗧𝗔(https://t.me/VENDETTAAI)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝗔𝗹𝗼𝗻𝘅𝗯𝗮𝗱](https://t.me/Alonxbad)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -224,17 +218,14 @@ async def start_comm(client, message: Message, _):
                   )
             except:
                 await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/b0dc304cafb023bdbc1ee.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
-┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┏━━━━━━━━━━━━━━━━━
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝗩𝗘𝗡𝗗𝗘𝗧𝗧𝗔(https://t.me/VENDETTAAI)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝗔𝗹𝗼𝗻𝘅𝗯𝗮𝗱](https://t.me/Alonxbad)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -255,18 +246,12 @@ async def start_comm(client, message: Message, _):
               )
         else:
             await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/ae7b9a70b27645c8ba1b3.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
-┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
-┗━━━━━━━━━━━━━━━━━┛
+
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
 𝐄𝐧𝐣𝐨𝐲 𝐒𝐮𝐩𝐞𝐫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ❥︎𝐌𝐮𝐬𝐢𝐜.
@@ -288,7 +273,13 @@ async def start_comm(client, message: Message, _):
             sender_id = message.from_user.id
             sender_name = message.from_user.first_name
             return await app.send_message(
-                config.LOG_GROUP_ID,
+              
+┏━━━━━━━━━━━━━━━━━
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝗩𝗘𝗡𝗗𝗘𝗧𝗧𝗔(https://t.me/VENDETTAAI)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝗔𝗹𝗼𝗻𝘅𝗯𝗮𝗱](https://t.me/Alonxbad)
+┗━━━━━━━━━━━━━━━━━┛
+
+config.LOG_GROUP_ID,
                 f"{message.from_user.mention} has just started Bgt Music Bot.\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
             )
 
@@ -368,7 +359,4 @@ async def welcome(client, message: Message):
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
