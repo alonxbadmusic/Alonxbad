@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 
 from pyrogram import filters
@@ -37,7 +34,4 @@ async def videoloaymode(client, message: Message, _):
         await message.reply_text(usage)
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
