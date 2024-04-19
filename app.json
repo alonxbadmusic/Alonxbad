@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "Bgt Music",
+        "value": "Alonxbad",
         "required": true
       },
       "OWNER_ID": {
