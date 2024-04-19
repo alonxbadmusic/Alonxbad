@@ -1,7 +1,4 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI 
 
 
 from pyrogram.types import (InlineKeyboardButton,
@@ -81,7 +78,4 @@ __Reply with /play on this searched message to stream it on voice chat.__
 
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @VENDETTAAI
