@@ -1,7 +1,4 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
 
 
 from pyrogram import filters
@@ -141,7 +138,4 @@ async def sudoers_list(client, message: Message, _):
         await message.reply_text(text)
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @VENDETTAAI
